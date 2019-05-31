@@ -18,5 +18,7 @@ Resources:
 - [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 - [Scott Wlaschin on Developer On Fire](https://developeronfire.com/podcast/episode-031-scott-wlaschin-learn-from-diverse-sources)
 - [12 Rules for Life: An Antidote to Chaos - Jordan B. Peterson](https://www.amazon.com/dp/0345816021/?tag=devonfir-20)
+- [Mastery - Robert Greene](https://www.amazon.com/dp/014312417X/?tag=devonfir-20)
+- [The Design of Design: Essays from a Computer Scientist - Frederick P. Brooks Brooks](https://www.amazon.com/dp/0201362988/?tag=devonfir-20)
 - [Aslak Hellesøy](https://developeronfire.com/podcast/episode-022-aslak-hellesoy-testing-your-understanding)
 - [Dave's "Test Your Understanding" Blog Post on Simple Programmer](https://simpleprogrammer.com/test-your-understanding/)
