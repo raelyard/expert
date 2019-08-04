@@ -5,6 +5,7 @@ Presentation Slides for talk crafted to be given at [Explore DDD](http://explore
 Resources:
 - [The Presentation Slides](https://raelyard.github.io/expert/index.html)
 - [Developer On Fire](http://developeronfire.com/)
+- [Explore DDD 2018 Keynote - Eric Evans - DDD Isn't Done: A Skeptical, Optimistic​, Pragmatic Look](https://developeronfire.com/podcast/episode-290-eric-evans-tackling-complexity)
 - [Eric Evans on Developer On Fire](https://developeronfire.com/podcast/episode-290-eric-evans-tackling-complexity)
 - [James Altucher on Quora - There is no such thing as an expert](https://www.quora.com/Should-the-answers-on-Quora-be-categorized-into-experts-opinion-and-laymans-opinion/answer/James-Altucher?share=1)
 - [Uncle Bob Martin on Developer On Fire](https://developeronfire.com/podcast/episode-114-robert-martin-master-craftsman)
